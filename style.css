@@ -1,10 +1,12 @@
 header {
     background-color: purple;
-    color: plum;
+    color: black;
     padding: 20px;
+    margin: 0 1.5cm;
     text-align: center;
 }
 section {
+    background-color: plum;
     margin: 0 1.5cm;
     font-size: 16px;
     color: black;
