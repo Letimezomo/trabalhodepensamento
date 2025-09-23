@@ -1,6 +1,6 @@
 header {
     background-color: purple;
-    color: white;
+    color: red;
     padding: 20px;
     text-align: center;
 }
@@ -10,8 +10,8 @@ section {
     color: black;
 }
 footer {
-    background-color: blueviolet;
-    color: white;
+    background-color: black;
+    color: blue;
     padding: 10px;
     text-align: center;
     margin: 0 1.5cm;
