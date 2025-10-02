@@ -10,13 +10,13 @@ section {
     margin: 0 1.5cm;
     font-size: 20px;
     color: black;
-    text-align: center;
+    text-align: justify;
 }
 footer {
     background-color: white;
     color: black;
     padding: 10px;
-    text-align: center;
+    text-align: justify;
     margin: 0 1.5cm;
     font-size: 14px;
 }
